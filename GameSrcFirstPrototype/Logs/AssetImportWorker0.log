@@ -140,3 +140,82 @@ Received Import Request.
   path: Assets/Scenes/SampleScene.unity
   artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39830e642e86629427d938554181f2fd') in 0.012760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 444.255039 seconds.
+  path: Assets/Art
+  artifactKey: Guid(2d2bc2bb7d4a7c946a8df94d1ba24bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art using Guid(2d2bc2bb7d4a7c946a8df94d1ba24bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80a247db9893e01435343f202429266') in 0.012016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.863932 seconds.
+  path: Assets/Art/sprites
+  artifactKey: Guid(0be8e3e6084288042950e87eebac6bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites using Guid(0be8e3e6084288042950e87eebac6bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92f6f5eec742b30f904442dd6b5e0c29') in 0.011278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.431751 seconds.
+  path: Assets/Art/sprites/objects
+  artifactKey: Guid(529c2019a7c7a8448ba123943a2c71e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects using Guid(529c2019a7c7a8448ba123943a2c71e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86136030d4bc898f4272b801e8cca75') in 0.010866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043042 seconds.
+  path: Assets/Art/sprites/objects/chest_01.png
+  artifactKey: Guid(afdb08b77edbaf648a462c80469365d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/chest_01.png using Guid(afdb08b77edbaf648a462c80469365d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da918ce1300f45764b05b52e121537f') in 0.121179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Art/sprites/objects/rock_in_water_03.png
+  artifactKey: Guid(38dc2f383138bcd4bb731ce9135801a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/rock_in_water_03.png using Guid(38dc2f383138bcd4bb731ce9135801a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093c54944c63fa3dae23964c4d5007f5') in 0.022321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Art/sprites/objects/rock_in_water_04.png
+  artifactKey: Guid(a4acc4aa02d1d094cb0163ecfab9a54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/rock_in_water_04.png using Guid(a4acc4aa02d1d094cb0163ecfab9a54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4317b631f6dd1ad2892faf7eb9cea4f0') in 0.046571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Art/sprites/objects/objects.png
+  artifactKey: Guid(d8f51a92d35b9f64992fd536e0d69133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/objects.png using Guid(d8f51a92d35b9f64992fd536e0d69133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c86c47903aae0f674a1ba164af14aac') in 0.029438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Art/sprites/objects/rock_in_water_06.png
+  artifactKey: Guid(b7b24c0fac1f1fa4b993bddc80c02b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/rock_in_water_06.png using Guid(b7b24c0fac1f1fa4b993bddc80c02b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d1d408df490597720dd419ca0fed7d') in 0.024571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Art/sprites/objects/rock_in_water_01-sheet.png
+  artifactKey: Guid(d78c11c03f32c1b41903974d3b0b0c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/rock_in_water_01-sheet.png using Guid(d78c11c03f32c1b41903974d3b0b0c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31c4b834b4ebe4c31a02805dbf98af6') in 0.030107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Art/sprites/objects/rock_in_water_05.png
+  artifactKey: Guid(d82a138dd1150fc4b8f364e16bd4bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/rock_in_water_05.png using Guid(d82a138dd1150fc4b8f364e16bd4bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d39cf6ce10c5707d973566ce5cb597a') in 0.023689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Art/sprites/objects/rock_in_water_01.png
+  artifactKey: Guid(611aa601e4910e54297e33189a22fb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/rock_in_water_01.png using Guid(611aa601e4910e54297e33189a22fb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8259bde8c7d04cfce4d8bbc405a080e4') in 0.023393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Art/sprites/objects/chest_02.png
+  artifactKey: Guid(a323c00dbf4ef5447abc996026895414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/chest_02.png using Guid(a323c00dbf4ef5447abc996026895414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f44257c10b4a4cb8f04a5c2fd0abe4d2') in 0.022985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Art/sprites/objects/rock_in_water_02.png
+  artifactKey: Guid(74e6c322db7bae14a9f30263b53a4e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/sprites/objects/rock_in_water_02.png using Guid(74e6c322db7bae14a9f30263b53a4e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dde9d60d65e39a73145cb40d31ea2dd') in 0.020353 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
