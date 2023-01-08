@@ -42,3 +42,4 @@ Assets/StreamingAssets/crashlytics-build.properties
 *.log
 *.log
 GameSrcFirstPrototype/Logs/AssetImportWorker0.log
+*.log
