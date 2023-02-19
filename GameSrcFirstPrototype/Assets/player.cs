@@ -8,7 +8,6 @@ public class player : MonoBehaviour
     public float _speed;
     public float inputx;
     public float inputy;
-
     private Rigidbody2D _rigi;
     // Start is called before the first frame update
     void Start()
